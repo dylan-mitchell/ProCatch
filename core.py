@@ -3,7 +3,6 @@ import wmi
 import sys
 import gui
 import toasty
-import thread
 from tkinter import *
 from subprocess import PIPE, Popen
 
